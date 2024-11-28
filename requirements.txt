@@ -1,0 +1,13 @@
+apache-airflow==2.10.3
+apache-airflow[postgres,celery]==2.10.3
+lightgbm==4.5.0
+matplotlib==3.9.2
+mlflow==2.18.0
+pyspark==3.5.3
+scikit-learn==1.5.2
+scikit_optimize==0.10.2
+seaborn==0.13.2
+statsmodels==0.14.4
+tensorflow==2.18.0
+torch==2.5.1
+xgboost==2.1.2
